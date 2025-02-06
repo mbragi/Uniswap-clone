@@ -1,7 +1,0 @@
-export const OrderBookExec = "0x89372b32b8AF3F1272e2efb3088616318D2834cA";
-export const UniswapSwap = "0xF45B1CdbA9AACE2e9bbE80bf376CE816bb7E73FB";
-export const Router = "0x0b27a79cb9c0b38ee06ca3d94daa68e0ed17f953";
-export const customRouter = "0x6D712CB50297b97b79dE784d10F487C00d7f8c2C";
-
-export const EXCHANGE_ROUTER = "0xE592427A0AEce92De3Edee1F18E0157C05861564";
-export const WETH_TOKEN = "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2";
