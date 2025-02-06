@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "fieldtype":"checkbox",
+      "type": "Trigger",
+      "order":"Decrease ETH Long by $1000.00",
+      "price": 1560.00,
+      "markedprice": 1779.47
+    },
+    {
+        "id": 2,
+        "fieldtype":"checkbox",
+        "type": "Trigger",
+        "order":"Decrease ETH Long by $1000.00",
+        "price": 1560.00,
+        "markedprice": 1779.47
+    },
+    {
+        "id": 3,
+        
+        "type": "Trigger",
+        "order":"Decrease ETH Long by $1000.00",
+        "price": 1560.00,
+        "markedprice": 1779.47
+    }
+]
